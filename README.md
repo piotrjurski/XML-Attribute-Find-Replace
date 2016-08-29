@@ -1,2 +1,2 @@
-# XML-Attribute-Find-Replace
-Replaces an attribute in XML
+# XML-Attribute-Find-Replace (Batch File)
+Replaces an attribute in XML. (Batch File)
